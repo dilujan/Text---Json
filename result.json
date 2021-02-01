@@ -1,0 +1,15 @@
+{
+    "result": "India won by 7 wkts",
+    "first_inning": {
+        "Team": "England",
+        "Score": "198-9",
+        "Overs": "20",
+        "Captain": "Eoin Morgan"
+    },
+    "second_inning": {
+        "Team": "India",
+        "Score": "201-3",
+        "Overs": "18.4",
+        "Captain": "Virat Kohli"
+    }
+}
